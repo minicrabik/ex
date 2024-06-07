@@ -1,0 +1,5 @@
+# ninja log v5
+1	333	7394485360528437	CMakeFiles/ex.dir/main.c.obj	54e071df53c9214f
+335	676	7394485363729915	ex.exe	1211ba09a83a71c
+41	348	7394491787513972	CMakeFiles/ex.dir/task/task.c.obj	9af84ea55830584c
+39	444	7394497812824256	CMakeFiles/ex.dir/task/task.c.obj	9af84ea55830584c
